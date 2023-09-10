@@ -8,4 +8,4 @@ We built the baby detection using VIAM's computer vision and machine learning. W
 
 ## How to Run
 
-Install the viam software at [https://docs.viam.com/installation/](https://docs.viam.com/installation/). Run the `{kiddykam.py}` file using Python 3.10 or greater.
+Install the viam software at [https://docs.viam.com/installation/](https://docs.viam.com/installation/). Run the `main.py` file using Python 3.10 or greater.
